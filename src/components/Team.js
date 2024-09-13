@@ -7,7 +7,7 @@ import { amine,saida } from '../assets'
 
 const Team = () => {
   return (
-    <div className='container mx-auto'>
+    <div className='container mx-auto min-h-[70vh]'>
       <h1 className='text-bold text-center text-5xl font-mono m-20 md:m-10 2xl:m-16'> Meet The Team</h1>
     <div className='container mx-auto flex flex-wrap  justify-evenly items-center min-h-screen md:min-h-[70vh]'>
       
